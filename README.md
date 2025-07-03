@@ -137,8 +137,8 @@ Nas Configurações:
   → nano /var/www/html/index.html
 ```
 2. Dentro do nano:
-```bash
-  !DOCTYPE html>
+```html
+!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
