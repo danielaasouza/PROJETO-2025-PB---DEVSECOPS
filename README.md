@@ -166,7 +166,7 @@ Nas Configurações:
 ```
  Dentro do nano:
  ```bash
-   #!/bin/bash
+ #!/bin/bash
 
 URL="http://localhost"
 LOG="/var/log/monitoramento.log"
