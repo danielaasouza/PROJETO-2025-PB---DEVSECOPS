@@ -78,6 +78,7 @@ Dentro das Configurações:
 
   ### 3.2 Criar uma instância EC2 na AWS 
   1. Acesse  **EC2 → Grupos de Segurança → Criar grupo de Segurança**
+
 Nas Configurações:
 - Atribua um nome ao grupo de Segurança
 - Descrição: Permitir acesso SSH e HTTP à EC2
@@ -138,7 +139,7 @@ Nas Configurações:
 ```
 2. Dentro do nano:
 ```html
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -147,7 +148,7 @@ Nas Configurações:
 <body>
   <h1>PROJETO LINUX 2025 PB - DEVSECOPS</h1>
   <p><strong>Objetivo:</strong> Servidor web com monitoramento na AWS</p>
-  <p><strong>Serviços utilizados:</strong> Nginx, HTML, Monitoramento via Disco>
+  <p><strong>Serviços utilizados:</strong> Nginx, HTML, Monitoramento via Discord</p>
   <p><strong>Status:</strong> Online</p>
 </body>
 </html>
