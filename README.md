@@ -135,7 +135,7 @@ Nas Configurações:
 # Dá permissão de dono da pasta /var/www/html para o usuário atual
   → sudo chown -R $USER:$USER /var/www/html
 # Abre o editor nano para a criação da página HTML
-  → nano /var/www/html/index.html
+  → sudo nano /var/www/html/index.html
 ```
 2. Dentro do nano:
 ```html
